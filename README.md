@@ -6,7 +6,7 @@ It introduces a developer profile, highlights services, and provides contact & a
 ---
 
 ## 📸 Preview
-![Landing Page Screenshot](image/projecgit add README.mdt4.png)
+![Landing Page Screenshot](image/project4.png)
 
 ---
 
