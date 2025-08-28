@@ -6,7 +6,7 @@ It introduces a developer profile, highlights services, and provides contact & a
 ---
 
 ## 📸 Preview
-![Landing Page Screenshot](image/developer.png)
+![Landing Page Screenshot](image/projecgit add README.mdt4.png)
 
 ---
 
@@ -38,7 +38,7 @@ developer-landing-page/
 ---
 
 ## 🔗 Live Demo
-👉 [Click Here](https://attiq-ur-rehman4855.github.io/developer-landing-page/)
+👉 https://attiq-ur-rehman4855.github.io/developer-landing-page/
 
 ---
 
